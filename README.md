@@ -28,6 +28,7 @@ description = input()
 print(generate_function(description))
 ```
 
+Read more about OpenAI Codex here: https://lablab.ai/tech/codex
 ---
 
 [![Artificial Intelligence Hackathons, tutorials and Boilerplates](https://storage.googleapis.com/lablab-static-eu/images/github/lablab-banner.jpg)](https://lablab.ai)
